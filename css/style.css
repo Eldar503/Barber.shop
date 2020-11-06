@@ -144,6 +144,9 @@ hr {
   flex: 0 0 31%;
   text-align: center;
 }
+.bg-green-goha {
+    text-align: right;
+  }
 .bg-green h3 {
   font-size: 18px;
   font-weight: 700;
