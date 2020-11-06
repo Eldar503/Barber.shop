@@ -140,6 +140,10 @@ hr {
 .bg-green-item {
   flex: 0 0 55%;
 }
+.col-6{
+    width: 50%;
+    display: flex;
+}
 .bg-green-img {
   flex: 0 0 31%;
   text-align: center;
