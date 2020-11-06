@@ -136,7 +136,7 @@ hr {
   padding: 34px 41px;
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
+
 }
 .bg-green-item {
   flex: 0 0 55%;
